@@ -35,14 +35,21 @@
 
 ➔ Creating more than one model and comparing them using different performance metrics.
 
-### Conclusiion:-
-	Model	Train Score	Test Score
+### Result:-
+####	Model	Train Score	Test Score
+	
 6	XG Boost Classifier	99.99	99.98
-1	Decision Tree	96.73	96.84
+
+1	Decision Tree		96.73	96.84
+
 4	Ada Boost Classifier	96.61	96.61
-2	Random Forest	95.60	95.70
+
+2	Random Forest		95.60	95.70
+
 0	Logistic Regression	94.23	94.32
-5	Naive Bayes	87.57	87.63
+
+5	Naive Bayes		87.57	87.63
+
 3	Support Vector Machines	67.76	67.66
 
 
