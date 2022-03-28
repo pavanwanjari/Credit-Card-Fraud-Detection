@@ -36,7 +36,7 @@
 ➔ Creating more than one model and comparing them using different performance metrics.
 
 ### Result:-
-####	Model	Train Score	Test Score
+	Model	Train Score	Test Score
 	
 6	XG Boost Classifier	99.99	99.98
 
